@@ -1,4 +1,4 @@
-# Contador Regressivo em ReactJs
+# Contagem Regressiva para 2026 - ReactJs
 
 🚀 Estou desenvolvendo um projeto pequeno, mas bem bacana: Criando um contador regressivo aonde você inseri sua propria imagem de fundo, em REACTJS, JavaScript e CSS3.
 
