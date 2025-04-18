@@ -1,2 +1,2 @@
-# Contador_Regressivo_ReactJS
+# Contador Regressivo em ReactJs
 Criando um contador regressivo aonde você inseri sua propria imagem de fundo.
