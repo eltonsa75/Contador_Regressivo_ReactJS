@@ -31,7 +31,13 @@ Em breve trago mais novidades — e quem sabe você acerta todas as perguntas? �
 
  ![Quiz](./countdown/src/assets/contador.JPG)
 
+ ## Formulário do Projeto
+
  ![Quiz](./countdown/src/assets/form.JPG)
+
+  ## Contador finalizado
+
+ ![Quiz](./countdown/src/assets/fim.JPG)
 
 
 **Fonte: Hora de Cordar - React do Básico ao Avançado **
