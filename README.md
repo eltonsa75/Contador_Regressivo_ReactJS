@@ -29,7 +29,7 @@ Em breve trago mais novidades — e quem sabe você acerta todas as perguntas? �
 
 ## Contagem Regressiva para 2026
 
- ![Quiz](./countdown/src/assets/img1.JPG)
+ ![Quiz](./countdown/src/assets/contador.JPG)
 
 
 **Fonte: Hora de Cordar - React do Básico ao Avançado **
